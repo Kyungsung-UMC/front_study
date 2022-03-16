@@ -1,26 +1,27 @@
-https://www.youtube.com/watch?v=XMb0w3KMw00&list=PLuHgQVnccGMCRv6f8H9K5Xwsdyg4sFSdi
+# 스터디 주제
+### 리액트 , 리액트 ts
+### next js 
+### TypeScript
+### storybook 
 
-게리
--> 리액트 nextjs 둘 다 써봄
-월요일
+# 스터디 참고 사이트
+## Javascipt 
+- https://ko.javascript.info/object-methods
 
-카터 - > 춘식
--> 리액트 어느 정도 할줄 알아요
-월화
+## TypeScript
+- https://joshua1988.github.io/ts/guide/basic-types.html#array
 
-말론 -> 게리
--> js 기본적으로 할줄 알아야함
-모르는 부분만
-다음주 수 , 금 빼고
+# 스터디 인원
+- 카터 ( 김건호 ) 
+- 춘식 ( 박슬빈 )
+- 말론 ( 조대훈 ) 
+- 게리 ( 박범수 )
 
-js심화 
-이해하지를 못한상태
-기능 구현은 다 가능
+# 스터디 일정
+3월 26일 3시 ( 대면 ) 
 
-프로젝트 위주로 스터디를 진행하려고 함
 
-js심화 적당히
-리액트  , nextjs , ts , 리액트 ts , storybook 
+
 ts로 발표 정도
 - > 이론 , 주제만 공부하는게 아니라 전체적으로 흐름을 봐주시고
 프로젝트 셋팅
